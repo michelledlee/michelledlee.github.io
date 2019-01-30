@@ -24,7 +24,7 @@ If the version of Python is 2.X run the server with
 ```
 python -m SimpleHTTPServer
 ```
-Choose the HTML to preview and run in your browser
+Choose the HTML to preview and run in your Chrome browser
 
 ## Author Link
 [Michelle Lee](https://michelledlee.github.io/)
