@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Michelle's Homepage
 
-You can use the [editor on GitHub](https://github.com/michelledlee/michelledlee.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Project Objective  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+To create a website that showcases my education, skills, and experience in a format that is fun and interactive for visitors.
 
-### Markdown
+## Screenshot and Gifs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tech Requirements
 
-```markdown
-Syntax highlighted code block
+## How to Install/Use
 
-# Header 1
-## Header 2
-### Header 3
+## Author Link
+[Michelle Lee](https://michelledlee.github.io/)
 
-- Bulleted
-- List
+## Class Link
+[CS-5610 Web Development Spring 2019](http://johnguerra.co/classes/webDevelopment_spring_2019/)
 
-1. Numbered
-2. List
+## Link to Video Demonstration
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/michelledlee/michelledlee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
