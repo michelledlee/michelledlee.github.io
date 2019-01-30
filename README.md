@@ -1,4 +1,4 @@
-## Michelle's Homepage
+# Michelle's Homepage
 
 ## Project Objective  
 To create a website that showcases my education, skills, and experience in a format that is fun and interactive for visitors.
