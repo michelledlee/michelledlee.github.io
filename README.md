@@ -9,8 +9,22 @@ To create a website that showcases my education, skills, and experience in a for
 ![Image of Homepage (Resized)](https://michelledlee.github.io/img/screenshot2.png)
 
 ## Tech Requirements
+Chrome
 
 ## How to Install/Use
+From terminal, check if Python is installed with 
+```
+python -V
+```
+If the version of Python is 3.X run the server with
+```
+python3 -m http.server
+```
+If the version of Python is 2.X run the server with
+```
+python -m SimpleHTTPServer
+```
+Choose the HTML to preview and run in your browser
 
 ## Author Link
 [Michelle Lee](https://michelledlee.github.io/)
