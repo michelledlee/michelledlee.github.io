@@ -4,15 +4,21 @@
 To create a website that showcases my education, skills, and experience in a format that is fun and interactive for visitors.
 
 ## Screenshots
+
+**Full Sized Homepage** 
 ![Image of Homepage (Full-Sized)](https://michelledlee.github.io/img/screenshot1.png)
 
+**Responsive Homepage**
 ![Image of Homepage (Resized)](https://michelledlee.github.io/img/screenshot2.png)
 
 ## Demo Gifs
+**Responsive Resizing in Action**  
 ![Responsive Pages](https://michelledlee.github.io/img/gif3.gif)
 
+**Gallery Demonstration**  
 ![Gallery Demonstration](https://michelledlee.github.io/img/gif2.gif)
 
+**Modal Window**  
 ![Modal Window](https://michelledlee.github.io/img/gif1.gif)
 
 
