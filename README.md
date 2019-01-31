@@ -33,4 +33,5 @@ Choose the HTML to preview and run in your Chrome browser
 [CS-5610 Web Development Spring 2019](http://johnguerra.co/classes/webDevelopment_spring_2019/)
 
 ## Link to Video Demonstration
-[Demonstration on YouTube](http://UPDATE THIS LINK/)
+[Demonstration on YouTube](https://youtu.be/g2Hfv6ZFtiQ)  
+[Google Slides Presentation](https://docs.google.com/presentation/d/1p0H4SLkmktVJ3LHcs_u2xYTmHAYebgvfjx7JXpY8C2c/edit?usp=sharing)
