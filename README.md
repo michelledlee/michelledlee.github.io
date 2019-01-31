@@ -3,10 +3,18 @@
 ## Project Objective  
 To create a website that showcases my education, skills, and experience in a format that is fun and interactive for visitors.
 
-## Screenshot and Gifs
+## Screenshots
 ![Image of Homepage (Full-Sized)](https://michelledlee.github.io/img/screenshot1.png)
 
 ![Image of Homepage (Resized)](https://michelledlee.github.io/img/screenshot2.png)
+
+## Demo Gifs
+![Responsive Pages](https://michelledlee.github.io/img/gif3.gif)
+
+![Gallery Demonstration](https://michelledlee.github.io/img/gif2.gif)
+
+![Modal Window](https://michelledlee.github.io/img/gif1.gif)
+
 
 ## Tech Requirements
 Chrome
@@ -24,7 +32,7 @@ If the version of Python is 2.X run the server with
 ```
 python -m SimpleHTTPServer
 ```
-Choose the HTML to preview and run in your Chrome browser
+Choose the HTML file to preview and run in your Chrome browser
 
 ## Author Link
 [Michelle Lee](https://michelledlee.github.io/)
